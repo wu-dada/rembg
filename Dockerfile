@@ -1,4 +1,4 @@
-FROM nvidia/cuda:11.7.0-runtime-ubuntu20.04
+FROM nvidia/cuda:11.7.0-runtime-ubuntu20.04@sha256:d775fef07b567a589af366d31976cb9141d43317bb6de0a04cda4213a53f2b1e
 
 ENV DEBIAN_FRONTEND noninteractive
 
